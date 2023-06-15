@@ -1,0 +1,5 @@
+D:\LocalProjects\RustProjects\Tutorial Prototype\demo_simple_redis\target\debug\deps\scopeguard-84aa7ec85bcc2f3d.rmeta: C:\Users\awauox\.cargo\registry\src\index.crates.io-6f17d22bba15001f\scopeguard-1.1.0\src\lib.rs
+
+D:\LocalProjects\RustProjects\Tutorial Prototype\demo_simple_redis\target\debug\deps\scopeguard-84aa7ec85bcc2f3d.d: C:\Users\awauox\.cargo\registry\src\index.crates.io-6f17d22bba15001f\scopeguard-1.1.0\src\lib.rs
+
+C:\Users\awauox\.cargo\registry\src\index.crates.io-6f17d22bba15001f\scopeguard-1.1.0\src\lib.rs:
